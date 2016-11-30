@@ -17,7 +17,13 @@ printf("enter second no");
 scanf("%d",&b);
 
 a+=b;
-printf("+=%d",a);
+printf("+=%d\n",a);
+a-=b;
+printf("-=%d\n",a);
+a*=b;
+printf("*=%d\n",a);
+a/=b;
+printf("/=%d\n",a);
 getch();
 return (0);
 }
