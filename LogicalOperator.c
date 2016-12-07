@@ -1,7 +1,7 @@
 /*
-Student Name:Sambhav Siwakoti
+Student Name:Pradip Lamsal
 Subject:Programming Fudamental
-Roll No.:31
+Roll No.:23
 Lab Sheet No.:10
 Program:WAP to print logical operator.
 Date:7 November 2016
