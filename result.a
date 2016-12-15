@@ -1,9 +1,0 @@
-\*
-student name: pradip lamsal
-subject: programming fundamental
-lab sheet:11
-roll no : 23
-*/
-
-#include<stdio.h>
-#include<conio.h>
