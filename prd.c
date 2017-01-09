@@ -1,25 +1,64 @@
 /*
 student name : pradip lamsal
-subject: programming fundementaL
-Roll:23
-Lab: write a program to demostratation the working of increase and decrease operators
-date:02/12/2016
+subject: fundamental programming
+program: to check number is odd or even using ternary operator
+lab sheet:15
+roll:27
+date:2017/01/08
 */
 #include<stdio.h>
-#include<conio.h>
 
-int main(){
-int a;
-printf("enter the number:\n");
-scanf("%d",&a);
-
-printf("increment post of number is:%d\n",a++);
-
-printf("increment pre of number is:%d\n",++a);
-printf("decrement post of numbeer is:%d\n",a--);
-printf("decrement pre of number is:%d\n",--a);
-
-
-getch();
-return 0;
+int main()
+{
+	int a;
+	printf("enter the number :\n");
+	scanf("%d",&a);
+	(a%2==0)?printf("the number is even:\n"):printf("the number is odd:\n");
+	
+	return 0;
 }
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
